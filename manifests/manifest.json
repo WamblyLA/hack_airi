@@ -1,0 +1,39 @@
+{
+  "name": "SPARC-ERA5",
+  "resolution": "0.5 degree",
+  "channels": [
+    "t2m",
+    "mslp",
+    "u10",
+    "v10",
+    "tp6h",
+    "sst",
+    "tcwv",
+    "tcc",
+    "T1000",
+    "T925",
+    "T850",
+    "T700",
+    "U1000",
+    "U925",
+    "U850",
+    "U700",
+    "V1000",
+    "V925",
+    "V850",
+    "V700",
+    "Z1000",
+    "Z925",
+    "Z850",
+    "Z700",
+    "Q1000",
+    "Q925",
+    "Q850",
+    "Q700"
+  ],
+  "train_times_used": [
+    0,
+    1
+  ],
+  "checkpoint_sha256": "a5be62db083e5bb4da3fde3a8b0410050e2c4ce7a9e3c2a42ae5ab915d6cc24f"
+}

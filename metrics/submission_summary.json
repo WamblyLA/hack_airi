@@ -1,0 +1,13 @@
+{
+  "architecture": "SPARC-ERA5 semantic progressive conditional hyperprior",
+  "base_mode": {
+    "bitstream": "bitstreams/sample_base_64x.bin",
+    "actual_cr": 1064.3897911832946,
+    "normalized_rmse": 0.5192910432815552
+  },
+  "full_mode": {
+    "bitstream": "bitstreams/sample_full_32x.bin",
+    "actual_cr": 346.75132275132273,
+    "normalized_rmse": 0.512525737285614
+  }
+}

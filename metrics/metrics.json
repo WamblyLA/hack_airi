@@ -1,0 +1,22 @@
+{
+  "actual_base_cr": 1064.3897911832946,
+  "actual_full_cr": 346.75132275132273,
+  "exact_roundtrip": {
+    "base_64x": true,
+    "full_32x": true
+  },
+  "train_seconds": 59.73925920005422,
+  "gpu_hours": 0.016594238666681728,
+  "peak_vram_gib": 0.39251136779785156,
+  "parameters": 9793460,
+  "steps": 300,
+  "unique_train_times": 2,
+  "last": {
+    "loss": 0.688941478729248,
+    "base_distortion": 0.3783755302429199,
+    "full_distortion": 0.3457486927509308,
+    "base_bpv": 0.02056347019970417,
+    "full_bpv": 0.06866203248500824,
+    "step": 300
+  }
+}
